@@ -1,0 +1,4 @@
+# ninja log v5
+1	11218	1738370445316273878	/lab/kiran/navisim/haopeng/train/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/simple_knn.o	beecd97c707273c9
+0	19758	1738370453840287198	/lab/kiran/navisim/haopeng/train/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/ext.o	782e4517b9e4e8cc
+1	40051	1738370474148318925	/lab/kiran/navisim/haopeng/train/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/spatial.o	2af5ad090952738d
