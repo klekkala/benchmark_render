@@ -75,8 +75,11 @@ Gaussian Splatting expects three files in .bin format:
 - points3D.bin
 
 Your data folder should be structured like this:
+
 2023_06_24/0/sector0/sparse/0/cameras.bin
+
 2023_06_24/0/sector0/sparse/0/images.bin
+
 2023_06_24/0/sector0/sparse/0/points3D.bin
 
 Make sure all three .bin files are placed under sparse/0/ in the corresponding sector folder.
